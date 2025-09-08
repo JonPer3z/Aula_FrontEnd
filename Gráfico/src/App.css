@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  text-align: center;
+}
+
+.swtichs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-direction: row-reverse;
+
+}
+
+.containerSwtichs {
+  display: flex;
+}
